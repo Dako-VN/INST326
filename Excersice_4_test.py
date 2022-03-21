@@ -2,4 +2,4 @@ def greeting():
     print("Hello")
 
 def farewell():
-    print("Goodbye")
+    print("See you later, alligator!")
